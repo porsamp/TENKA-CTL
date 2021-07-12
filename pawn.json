@@ -6,6 +6,7 @@
 	"dependencies": [
 		"sampctl/samp-stdlib",
 		"pBlueG/SA-MP-MySQL:R41-4",
+		"Zeex/samp-plugin-crashdetect",
 		"samp-incognito/samp-streamer-plugin",
 		"pawn-lang/YSI-Includes",
 		"katursis/Pawn.CMD",
