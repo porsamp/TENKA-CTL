@@ -11,8 +11,9 @@
 
 #include 	<a_mysql>
 #include    <streamer>
+#include    <Pawn.RakNet>
 #define 	cec_auto
-#include    <CEC>
+#include    <cec>
 #include    <Pawn.CMD>
 #include    <easyDialog>
 #include    <progress2>
